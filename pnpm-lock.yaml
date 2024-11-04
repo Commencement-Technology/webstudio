@@ -308,8 +308,8 @@ importers:
         specifier: ^2.9.3
         version: 2.9.3
       cookie:
-        specifier: ^0.6.0
-        version: 0.6.0
+        specifier: ^0.7.0
+        version: 0.7.0
       css-tree:
         specifier: ^2.3.1
         version: 2.3.1(patch_hash=epgcmebti7rfrc2ej4odb3t4jy)
@@ -5925,6 +5925,10 @@ packages:
 
   cookie@0.6.0:
     resolution: {integrity: sha512-U71cyTamuh1CRNCfpGY6to28lxvNwPG4Guz/EVjgf3Jmzv0vlDp1atT9eS5dDjMYHucpHbWns6Lwf3BKz6svdw==}
+    engines: {node: '>= 0.6'}
+
+  cookie@0.7.0:
+    resolution: {integrity: sha512-qCf+V4dtlNhSRXGAZatc1TasyFO6GjohcOul807YOb5ik3+kQSnb4d7iajeCL8QHaJ4uZEjCgiCJerKXwdRVlQ==}
     engines: {node: '>= 0.6'}
 
   core-js-compat@3.38.1:
@@ -13709,6 +13713,8 @@ snapshots:
   cookie@0.5.0: {}
 
   cookie@0.6.0: {}
+
+  cookie@0.7.0: {}
 
   core-js-compat@3.38.1:
     dependencies:
