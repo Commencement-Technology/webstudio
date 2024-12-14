@@ -356,8 +356,8 @@ importers:
         specifier: ^8.0.0
         version: 8.0.0
       nanoid:
-        specifier: ^5.0.1
-        version: 5.0.1
+        specifier: ^5.0.9
+        version: 5.0.9
       nanostores:
         specifier: ^0.9.3
         version: 0.9.3
@@ -989,8 +989,8 @@ importers:
         specifier: ^10.0.3
         version: 10.0.3
       nanoid:
-        specifier: ^5.0.1
-        version: 5.0.1
+        specifier: ^5.0.9
+        version: 5.0.9
       warn-once:
         specifier: ^0.1.1
         version: 0.1.1
@@ -1467,8 +1467,8 @@ importers:
         specifier: workspace:*
         version: link:../trpc-interface
       nanoid:
-        specifier: ^5.0.1
-        version: 5.0.1
+        specifier: ^5.0.9
+        version: 5.0.9
       type-fest:
         specifier: ^4.26.1
         version: 4.26.1
@@ -1701,8 +1701,8 @@ importers:
         specifier: ^7.2.0
         version: 7.2.0
       nanoid:
-        specifier: ^5.0.1
-        version: 5.0.1
+        specifier: ^5.0.9
+        version: 5.0.9
       umzug:
         specifier: ^3.2.1
         version: 3.2.1
@@ -1741,8 +1741,8 @@ importers:
         specifier: workspace:*
         version: link:../trpc-interface
       nanoid:
-        specifier: ^5.0.1
-        version: 5.0.1
+        specifier: ^5.0.9
+        version: 5.0.9
       slugify:
         specifier: ^1.6.6
         version: 1.6.6
@@ -1772,8 +1772,8 @@ importers:
         specifier: workspace:*
         version: link:../trpc-interface
       nanoid:
-        specifier: ^5.0.1
-        version: 5.0.1
+        specifier: ^5.0.9
+        version: 5.0.9
       zod:
         specifier: ^3.22.4
         version: 3.22.4
@@ -1818,8 +1818,8 @@ importers:
         specifier: ^4.0.0
         version: 4.0.0
       nanoid:
-        specifier: ^5.0.1
-        version: 5.0.1
+        specifier: ^5.0.9
+        version: 5.0.9
       title-case:
         specifier: ^4.3.2
         version: 4.3.2
@@ -7845,8 +7845,8 @@ packages:
     engines: {node: ^10 || ^12 || ^13.7 || ^14 || >=15.0.1}
     hasBin: true
 
-  nanoid@5.0.1:
-    resolution: {integrity: sha512-vWeVtV5Cw68aML/QaZvqN/3QQXc6fBfIieAlu05m7FZW2Dgb+3f0xc0TTxuJW+7u30t7iSDTV/j3kVI0oJqIfQ==}
+  nanoid@5.0.9:
+    resolution: {integrity: sha512-Aooyr6MXU6HpvvWXKoVoXwKMs/KyVakWwg7xQfv5/S/RIgJMy0Ifa45H9qqYy7pTCszrHzP21Uk4PZq2HpEM8Q==}
     engines: {node: ^18 || >=20}
     hasBin: true
 
@@ -14814,7 +14814,7 @@ snapshots:
   immerhin@0.9.0:
     dependencies:
       immer: 10.0.3
-      nanoid: 5.0.1
+      nanoid: 5.0.9
 
   import-fresh@3.3.0:
     dependencies:
@@ -16352,7 +16352,7 @@ snapshots:
 
   nanoid@3.3.7: {}
 
-  nanoid@5.0.1: {}
+  nanoid@5.0.9: {}
 
   nanostores@0.9.3: {}
 
